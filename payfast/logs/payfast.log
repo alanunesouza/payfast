@@ -4,3 +4,6 @@
 {"level":"info","message":"consultando pagamento:  49","timestamp":"2019-03-12T02:37:29.328Z"}
 {"level":"info","message":"::1 - - [12/Mar/2019:02:37:29 +0000] \"GET /pagamentos/pagamento/49 HTTP/1.1\" 200 161\n","timestamp":"2019-03-12T02:37:29.352Z"}
 {"level":"info","message":"::1 - - [12/Mar/2019:02:37:42 +0000] \"POST /pagamentos/pagamento HTTP/1.1\" 201 529\n","timestamp":"2019-03-12T02:37:42.901Z"}
+{"level":"info","message":"::1 - - [12/Mar/2019:15:34:34 +0000] \"POST /pagamentos/pagamento HTTP/1.1\" 400 412\n","timestamp":"2019-03-12T15:34:34.975Z"}
+{"level":"info","message":"::1 - - [12/Mar/2019:17:01:51 +0000] \"POST /pagamentos/pagamento HTTP/1.1\" 400 412\n","timestamp":"2019-03-12T17:01:51.245Z"}
+{"level":"info","message":"::1 - - [12/Mar/2019:17:02:03 +0000] \"POST /pagamentos/pagamento HTTP/1.1\" 400 412\n","timestamp":"2019-03-12T17:02:03.151Z"}
